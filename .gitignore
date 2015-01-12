@@ -1,0 +1,31 @@
+.classpath
+project.properties
+.project
+.settings
+
+# Java class files
+*.class
+
+# Windows thumbnail db
+.DS_Store
+
+bin/
+gen/
+.idea/
+*.iml
+out
+tests
+target
+lint.xml
+local.properties
+ant.properties
+.DS_Store
+build.log
+build-log.xml
+.gradle
+.checkstyle
+build
+signing.properties
+library/lib/
+library/obj/
+/target
